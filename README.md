@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repository
+My first repository. This is my first commit in my first repository
